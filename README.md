@@ -1,3 +1,3 @@
 # First-demo
-This is the first git repo.
+This is the first git repository.
 Author - Chetainya Manchanda
